@@ -23,6 +23,7 @@ export const ListItem = styled("li", {
     display: "flex",
     alignItems: "center",
     justifyContent: "space-between",
+    cursor: "pointer",
   },
 
   "&:hover": {
