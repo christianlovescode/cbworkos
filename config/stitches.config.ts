@@ -209,7 +209,6 @@ const globalStyles = globalCss({
     "-moz-osx-font-smoothing": "greyscale",
   },
   html: {
-    overflow: "hidden",
     minHeight: "100%",
     height: "100%",
   },
