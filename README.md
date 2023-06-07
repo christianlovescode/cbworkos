@@ -3,7 +3,7 @@
 ### Demo
 
 - Video 👉 https://www.loom.com/share/70dd2d16d87f4978bec76074f9dff92d
-- Deployment 👉 https://christian-bryant-workos.vercel.app/
+- Deployment 👉 https://christianbryant-workos.vercel.app/
 
 ### Requirement Sanity Check
 
