@@ -9,6 +9,8 @@ import { ToolTip } from "@/components/Tooltip";
 import { Icon } from "@/components/Icons";
 
 const StyledUserListItem = styled(ListItem, {
+  cursor: "pointer",
+
   "&:has(button:focus)": {
     background: "$grey20",
   },
